@@ -8,4 +8,4 @@
 - MacOS Sonoma 14.1.1
 - Python 3.9.6
 
-![Learning Progress](https://img.shields.io/badge/Learning%20Progress-30%25-brightgreen)
+![Learning Progress](https://img.shields.io/badge/Learning%20Progress-40%25-brightgreen)
