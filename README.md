@@ -8,4 +8,8 @@
 - MacOS Sonoma 14.1.1
 - Python 3.9.6
 
+## 進捗
+
+- 5章は一旦飛ばし
+
 ![Learning Progress](https://img.shields.io/badge/Learning%20Progress-40%25-brightgreen)
