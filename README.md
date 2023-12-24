@@ -10,6 +10,13 @@
 
 ## 進捗
 
-- 5章は一旦飛ばし
-
-![Learning Progress](https://img.shields.io/badge/Learning%20Progress-40%25-brightgreen)
+- [x] Section 1
+- [x] Section 2
+- [x] Section 3
+- [x] Section 4
+- [ ] Section 5
+- [x] Section 6
+- [ ] Section 7
+- [ ] Section 8
+- [ ] Section 9
+- [ ] Section 10
