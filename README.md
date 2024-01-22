@@ -14,7 +14,7 @@
 - [x] Section 2
 - [x] Section 3
 - [x] Section 4
-- [ ] Section 5
+- [x] Section 5
 - [x] Section 6
 - [ ] Section 7
 - [ ] Section 8
