@@ -1,5 +1,7 @@
 .DS_Store
 
+book_komiya_bert/
+
 **/**.txt
 **/**.json
 **/**.mecab
@@ -8,3 +10,5 @@
 **/**.csv
 **/**.tsv
 **/**.parsed
+**/**.gz
+**/**.tab
