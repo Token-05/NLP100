@@ -1,7 +1,5 @@
 .DS_Store
 
-book_komiya_bert/
-
 **/**.txt
 **/**.json
 **/**.mecab
@@ -12,3 +10,5 @@ book_komiya_bert/
 **/**.parsed
 **/**.gz
 **/**.tab
+log/
+cp/
